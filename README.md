@@ -20,3 +20,5 @@ scrapy crawl mangospider -O output.json
 ```
 `output.json` file will be created in the `scrapyproject` directory
 
+
+>Updated method without selenium here https://github.com/Xamaneone/scrapy_crawler_mango_updated
